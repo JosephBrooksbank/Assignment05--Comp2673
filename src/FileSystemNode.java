@@ -1,6 +1,13 @@
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * FileSystemNode class for Assignment05
+ *
+ * @author Joseph Brooksbank
+ * @version 5/22/2018
+ * 
+ */
 class FileSystemNode {
 
     final String name;

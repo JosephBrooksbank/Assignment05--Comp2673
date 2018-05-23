@@ -1,7 +1,7 @@
 import java.util.Stack;
 
 /**
- * Class for the filesystem for assignment 05
+ * Class for the filesystem for Assignment 05
  *
  * @author Joseph Brooksbank
  * @version 5/22/2018

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Driver class for Assignment 5
+ * Driver class for Assignment 05
  *
  * @author Joseph Brooksbank
  * @version 5/22/2018
@@ -10,7 +10,7 @@ import java.util.Scanner;
  * cd / -- returns to root
  * rm -rf -- removes folder
  * echo -- echos text
- * su  -- switches user to specified user 
+ * su  -- switches user to specified user
  * exit -- exits the current instance of the shell, meaning if you have started new instances (with su) than it will
  * simply exit the latest one and move down a level.
  */
